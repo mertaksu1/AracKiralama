@@ -1,0 +1,15 @@
+C:\Users\aksum\source\repos\AracKiralama\AracKiralama\bin\Debug\AracKiralama.exe.config
+C:\Users\aksum\source\repos\AracKiralama\AracKiralama\bin\Debug\AracKiralama.exe
+C:\Users\aksum\source\repos\AracKiralama\AracKiralama\bin\Debug\AracKiralama.pdb
+C:\Users\aksum\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csprojAssemblyReference.cache
+C:\Users\aksum\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.Form1.resources
+C:\Users\aksum\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.Form2.resources
+C:\Users\aksum\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.Properties.Resources.resources
+C:\Users\aksum\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.GenerateResource.cache
+C:\Users\aksum\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.CoreCompileInputs.cache
+C:\Users\aksum\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.exe
+C:\Users\aksum\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.pdb
+C:\Users\aksum\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.Form3.resources
+C:\Users\aksum\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.Form4.resources
+C:\Users\aksum\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.Form5.resources
+C:\Users\aksum\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.Form6.resources
